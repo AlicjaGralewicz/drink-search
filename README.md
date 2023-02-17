@@ -1,1 +1,1 @@
-# Cześć Alka, jesteś pralka
+# Projekt dotyczy nauki.
